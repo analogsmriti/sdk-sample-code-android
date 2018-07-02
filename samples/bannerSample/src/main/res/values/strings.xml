@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">InMobi Banner Sample</string>
+    <string name="banner_xml_message">Banner Ad through XML layout</string>
+    <string name="label_title">Title</string>
+    <string name="xml_integration">XML INTEGRATION</string>
+    <string name="banner_sample">BANNER SAMPLE</string>
+    <string name="prefetch_banner">PREFETCH BANNER</string>
+
+</resources>
